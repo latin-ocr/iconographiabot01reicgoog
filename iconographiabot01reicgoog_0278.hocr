@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iconographiabot01reicgoog_0278.png"; bbox 0 0 4252 5676; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 691 5003 1093 5164">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 691 5003 1093 5164">
+     <span class='ocr_line' id='line_1_1' title="bbox 691 5003 1093 5164; baseline 0.032 -35"><span class='ocrx_word' id='word_1_1' title='bbox 691 5003 1067 5164; x_wconf 29' lang='lat' dir='ltr'><em>..yl‘qllqlllbllsst&#39;</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1089 5135 1093 5142; x_wconf 95' lang='grc'><em>,</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 317 5179 1357 5303">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 317 5179 1357 5303">
+     <span class='ocr_line' id='line_1_2' title="bbox 317 5179 1357 5303; baseline 0.038 -73"><span class='ocrx_word' id='word_1_3' title='bbox 317 5189 381 5233; x_wconf 75' lang='grc'><em>169.</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 395 5193 462 5236; x_wconf 74' lang='lat' dir='ltr'><em>sm.</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 487 5209 729 5245; x_wconf 68' lang='lat' dir='ltr'><em>n,&#39;esr)&#39;nrcmt&#39;.</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 744 5182 900 5255; x_wconf 60' lang='grc' dir='ltr'><em>ΜἸἷᾱέ.-</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 915 5212 977 5260; x_wconf 69' lang='grc' dir='ltr'><em>ΙΝ,</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 998 5179 1229 5303; x_wconf 52' lang='lat' dir='ltr'><em>(essim-rem.</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1257 5225 1357 5272; x_wconf 67' lang='lat' dir='ltr'><em>acm.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 39 5265 254 5309">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 39 5265 254 5309">
+     <span class='ocr_line' id='line_1_3' title="bbox 39 5265 254 5309; baseline 0.023 -17"><span class='ocrx_word' id='word_1_10' title='bbox 39 5268 171 5309; x_wconf 43' lang='lat' dir='ltr'><em>agenr.</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 188 5265 254 5298; x_wconf 71' lang='lat' dir='ltr'><em>Ad.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2130 5676">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2130 5676">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2130 5676; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 2130 5676; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
